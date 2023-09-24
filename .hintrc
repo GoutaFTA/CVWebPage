@@ -1,8 +1,10 @@
-{
-  "extends": [
+    // Use IntelliSense to learn about possible attributes.
+
+//{
+ /* "extends": [
     "development"
   ],
   "hints": {
     "axe/text-alternatives": "off"
   }
-}
+}*/
